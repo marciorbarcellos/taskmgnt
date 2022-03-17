@@ -38,16 +38,16 @@ quantidade de tarefas não finalizadas
 - Retornar a pessoa que mais gastou horas em janeiro de 2022
 
 
-## Registro de Pessoas
+### Registro de Pessoas
 ![pessoas](https://github.com/marciorbarcellos/taskmgnt/blob/main/imagens/registro-de-pessoas.jpg)
 
-## Registro de Tarefas
+### Registro de Tarefas
 ![tarefas](https://github.com/marciorbarcellos/taskmgnt/blob/main/imagens/Registro-de-tarefa.jpg)
 
-## Registro de Departamentos
+### Registro de Departamentos
 ![departamentos](https://github.com/marciorbarcellos/taskmgnt/blob/main/imagens/registro-de-departamento.jpg)
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 [Autor](https://github.com/marciorbarcellos)
